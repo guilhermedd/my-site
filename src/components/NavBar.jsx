@@ -52,6 +52,7 @@ function NavBar() {
                             <a href="#"><img src={navIcon1} alt="Linkedin" className="socials"/></a>
                             <a href="#"><img src={navIcon2} alt="Whatsapp" className="socials"/></a>
                             <a href="#"><img src={navIcon3} alt="GitHub" className="socials"/></a>
+                            <a href="#"><button>Let's Connect</button></a>
                         </div>
                     </span>
                 </Navbar.Collapse>
